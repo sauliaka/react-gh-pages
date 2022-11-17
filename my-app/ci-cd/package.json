@@ -1,7 +1,7 @@
 {
   "name": "React-Ci-CD",
   "version": "0.1.0",
-  "homepage": "https://sauliaka.github.io/react-test",
+  "homepage": "https://tx00fc40.github.io/cicd",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
